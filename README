@@ -2,3 +2,13 @@ This is a simple Ruby script to batch encode all .WAV files in one folders to .M
 
 Dependencies:
 * Lame
+
+Path:
+For quick usage from anywhere in you file system add the script to your paG
+Go to home directory
+>cd
+Edit .profile
+>vim .profile
+Add line
+export PATH=/Users/youruser/pathto/rubyscript/MP3-Batch:$PATH
+Restart Terminal 
