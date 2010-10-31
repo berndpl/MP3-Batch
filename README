@@ -4,7 +4,7 @@ Dependencies:
 * Lame
 
 Path:
-For quick usage from anywhere in you file system add the script to your paG
+For quick usage from anywhere in you file system add the script to your path variable
 Go to home directory
 >cd
 Edit .profile
