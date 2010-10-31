@@ -1,4 +1,4 @@
-This is a simple Ruby script to batch encode all .WAV files in one folders to .MP3. ID3 Tags are populated by using the following file naming convention: "Artist_Name_-_Song_Title.wav"
+This is a simple Ruby script to batch encode all .WAV files in one folder to .MP3s. ID3 Tags are populated by using the following file naming convention: "Artist_Name_-_Song_Title.wav"
 
 Dependencies:
 * Lame
